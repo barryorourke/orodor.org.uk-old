@@ -1,0 +1,87 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster|Open+Sans);
+@import url(bootstrap.min.css);
+@import url(font-awesome.min.css);
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.5rem;
+  background: #fcfff5;
+}
+
+div.navbar {
+  background: #193441;
+}
+
+/* navbar default color */
+div.navbar a.navbar-brand,
+div.navbar ul.social li a i,
+div.navbar ul.primary-links li a {
+  color: #d1dbbd;
+}
+
+/* navbar hover & active color */
+div.navbar a.navbar-brand:hover,
+div.navbar ul.primary-links li a:hover,
+div.navbar ul.primary-links li.active a,
+div.navbar ul.primary-links li.active a:hover {
+  background: transparent;
+  color: #fcfff5;
+}
+
+/* branding */
+div.navbar-default a.navbar-brand {
+  letter-spacing: 0.2rem;
+  font-family: "Lobster", sans-serif;
+  font-weight: normal;
+  font-size: 2.5em;
+}
+
+/* main menu */
+.navbar ul.primary-links {
+  margin-right: 2rem;
+}
+
+.navbar ul.primary-links li a {
+  padding-top: 17px;
+  font-weight: bold;
+}
+
+/* social icons */
+ul.social li {
+  margin: 1rem 0.5rem;
+}
+
+ul.social li a {
+  display: block;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  border: 2px solid #d1dbbd;
+  padding: 0.5rem;
+  text-align: center;
+} 
+
+ul.social li.flickr a:hover {
+  background-color: #72858c;
+  border-color: #72858c;
+}
+
+ul.social li.github a:hover {
+  background-color: #4183c4;
+  border-color: #4183c4;
+}
+
+ul.social li.rss a:hover {
+  background-color: #f16b24;
+  border-color: #f16b24;
+}
+
+ul.social li.tumblr a:hover {
+ background-color: #2c4762;
+ border-color: #2c4762;
+}
+
+ul.social li.twitter a:hover {
+  background-color: #44ccf6;
+  border-color: #44ccf6;
+}
