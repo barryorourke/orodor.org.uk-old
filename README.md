@@ -1,4 +1,4 @@
 orodor.org.uk
 =============
 
-markdown files for the content on orodor.org.uk
+markdown files and pelican configuration for orodor.org.uk.
