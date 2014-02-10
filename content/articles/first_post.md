@@ -1,9 +1,6 @@
 Title: First Post
 Date: 2012-02-22 10:20
-Category: Hemiplegia
 Tags: blogging, hemiplegia
-Slug: first-post
-Summary:The first post ever
 
 Welcome to the latest incarnation of my blog, a few of the previous attempts didn't go too well but I'm hoping things will be different this time around. This time I decided that it should be a little more focused and in turn have decided that I would like to write about my experiences living as an adult with Hemiplegia (which is a form of Cerebral Palsy), it will also cover my attempts at using exercise, nutrition and unconventional wisdom to hopefully help lessen the impact it has upon my life.
 

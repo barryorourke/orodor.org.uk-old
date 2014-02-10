@@ -1,8 +1,6 @@
 Title: Second Post
-Date: 2013-10-13 12:00
-Category: Hemiplegia
+Date: 2013-08-13 12:00
 Tags: blogging, hemiplegia
-Slug: second-post
 
 It's been roughly a year and a half since I made the decision to start blogging again and as you can see I've unpublished everything that I'd previously written with the exception of the first post. One of my biggest problems is, to paraphrase trainspotting, that I'm a bit of a perfectionist and if things aren't right I just can't be bothered. As far as I was concerned this site wasn't up to scratch so I decided to strip it back and start again.
 
