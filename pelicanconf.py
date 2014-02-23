@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u"Barry O'Rourke"
-EMAIL = u"barry+site@orodor.org.uk"
+EMAIL = u"barry@orodor.org.uk"
 SITENAME = u'orodor.org.uk'
 SITEURL = 'http://localhost:8000'
 TIMEZONE = 'Europe/London'
@@ -56,3 +56,6 @@ PAGINATION_PATTERNS = (
     (1, '{base_name}/', '{base_name}/index.html'),
     (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
 )
+
+PLUGIN_PATH = '../pelican-plugins'
+PLUGINS = ['assets', 'neighbors', 'sitemap']
