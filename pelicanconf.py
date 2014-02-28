@@ -58,4 +58,4 @@ PAGINATION_PATTERNS = (
 )
 
 PLUGIN_PATH = '../pelican-plugins'
-PLUGINS = ['assets', 'neighbors', 'sitemap']
+PLUGINS = ['assets', 'neighbors', 'sitemap', 'gzip_cache']
