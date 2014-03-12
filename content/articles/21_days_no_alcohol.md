@@ -12,6 +12,6 @@ As I mentioned above I've been using alcohol to deal with spasticity, it does le
 
 So my theory was that **by using alcohol to deal with spasticity, I was actually making the spasticity worse** by lessening my muscle mass.
 
-Was I right? I'm pretty sure that I was, I've noticed that I'm feeling a lot more stable, stronger and may have noticed a slight increase in mass. Admittedly, I have been doing the [200 squats in a day](www.twohundredsquats.com) training program at the same time, but that's pretty much cancelled out by the fact that I've not been walking as much as usual.
+Was I right? I'm pretty sure that I was, I've noticed that I'm feeling a lot more stable, stronger and may have noticed a slight increase in mass. Admittedly, I have been doing the [200 squats in a day](http://www.twohundredsquats.com) training program at the same time, but that's pretty much cancelled out by the fact that I've not been walking as much as usual.
 
 Will I start drinking alcohol again? Yes, but nowhere near as frequently as before and with the knowledge that it will not help my spasticity in the long run!
