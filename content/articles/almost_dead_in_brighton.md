@@ -3,7 +3,7 @@ Tags: Reminiscence
 
 ![]({filename}/images/tbkids.png){.pull-right}
 
-This is the first of many posts where I hope to reminise, this one brought about by the fact that I'll be living down in Brighton for the next week whilst I attend the [FLOSS Spring Conference](www.flossuk.org/Events/Spring2014). 
+This is the first of many posts where I hope to reminisce, this one brought about by the fact that I'll be living down in Brighton for the next week whilst I attend the [FLOSS Spring Conference](www.flossuk.org/Events/Spring2014). 
 
 My last visit to Brighton was roughly twelve years ago, back when I was in my early twenties, when I was a very different person!
 
