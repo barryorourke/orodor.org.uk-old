@@ -3,7 +3,7 @@ Tags: Reminiscence
 
 ![]({filename}/images/tbkids.png){.pull-right}
 
-This is the first of many posts where I hope to reminisce, this one brought about by the fact that I'll be living down in Brighton for the next week whilst I attend the [FLOSS Spring Conference](www.flossuk.org/Events/Spring2014). 
+This is the first of many posts where I hope to reminisce, this one brought about by the fact that I'll be living down in Brighton for the next week whilst I attend the [FLOSS Spring Conference](www.flossuk.org/Events/Spring2014).
 
 My last visit to Brighton was roughly twelve years ago, back when I was in my early twenties, when I was a very different person!
 
@@ -17,6 +17,6 @@ Fraze and I decided to visit Neil and Leo who had set themselves up in Brighton 
 
 It was the final day of the weekend that warrants documentation, it was the night I opted to stay in, in retrospect this was probably caused by starvation.  The lure of a bottle of whiskey and a rather attractive Irish girl soon got me out the house and gave me an adopted Irish accent, and an Irish girl with an adopted Scots accent.
 
-At some point during the evening after the consumption of far too much whiskey and buckfast, the afore-mentioned Irish girl, a few others and I decided to sit on the roof and for a wee smoke, the smoke that in turn caused me to roll to my almost death, only just being grabbed by the Irish girl as I almost fell four stories to my death!!!
+At some point during the evening after the consumption of far too much whiskey and buckfast, the afore-mentioned Irish girl, a few others and I decided to sit on the roof for a smoke, the smoke that in turn caused me to roll to my almost death, only just being grabbed by the Irish girl as I was about to fall four stories to my death!!!
 
-It's sad that I can't remember her name, she saved my life, and I can't remember!
+It's sad that I can't remember her name after she saved my life. I was talking to Leo about it as I was writing this and he can't remember either.
