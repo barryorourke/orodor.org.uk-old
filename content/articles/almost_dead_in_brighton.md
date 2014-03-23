@@ -9,7 +9,7 @@ My last visit to Brighton was roughly twelve years ago, back when I was in my ea
 
 It was probably one of the periods where I made some of most important descisions of my life, I'd just left a job that I hated, taking advantage of voluntary severence and a five figure bank balance.
 
-The sensible thing to do would have been to sink my cash into the birth of web 2.0, but instead I set myself up as a club promoter and goth DJ. My life revolved around getting wasted and fucking randoms, getting to the point where I was pretentious enough to wear a t-shirt that proclaimed "Fuck me, I'm a DJ!".
+The sensible thing to do would have been to sink my cash into the birth of web 2.0, but instead I set myself up as a club promoter and goth DJ. My life over-indulgence and procreating freely, getting to the point where I was pretentious enough to wear a t-shirt that proclaimed "Fuck me, I'm a DJ!".
 
 Anyway, back to the Brighton story, and the weekend I nearly died!
 

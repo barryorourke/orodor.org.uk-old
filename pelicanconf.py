@@ -3,6 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u"Barry O'Rourke"
+AUTHOR_BIO = u"ageing goth, fat dad and sysadmin with mild hemiplegia."
 EMAIL = u"barry@orodor.org.uk"
 SITENAME = u'orodor.org.uk'
 SITEURL = 'http://localhost:8000'
