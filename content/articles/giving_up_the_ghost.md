@@ -1,4 +1,5 @@
 Title: Giving Up The Ghost
+Date: 2014-03-11
 Tags: Blogging, Programming
 
 In the last five months this blog has migrated from [Wordpress to Pelican]({filename}/articles/goodbye_wordpress_hello_pelican.md) then from [Pelican to Ghost]({filename}/articles/came_back_haunted.md) and I've been at it again, along with redesigning the look of the site, I've also migrated back to [Pelican](http://www.getpelican.com).

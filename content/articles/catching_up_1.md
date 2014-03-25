@@ -1,4 +1,5 @@
 Title: Catching Up #1
+Date: 2014-03-12
 Tags: 21days, Hemiplegia, Strength, Primal
 
 The last month or so has been pretty interesting, hence the lack of any posts. We've seen a couple of viruses (or is that virii) make their way around the family and Robin had the misfortune of cuttin his first two teeth at the same time, so sleep has been broken and limited.

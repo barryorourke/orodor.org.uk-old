@@ -1,4 +1,5 @@
 Title: Almost Dead in Brighton
+Date: 2014-03-14
 Tags: Reminiscence
 
 ![]({filename}/images/tbkids.png){.pull-right}
