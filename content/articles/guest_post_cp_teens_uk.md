@@ -1,6 +1,7 @@
 Title: Guest Post - CP Teens UK
 Tags: Hemiplegia, Guest
-Status: draft
+
+This is a post that I originally wrote as a guest post for [CPTeens](http://www.cpteens.co.uk/).
 
 A little bit about me would probably be a good start. I'm Barry, in my thirties, I'm a father of two, a sysadmin and I live in the woods on the edge of civilisation. I'm a semi-retired goth DJ, who spent the majority of his twenties DJing in and around Edinburgh, eventually ending up as a resident at (probably) one of the most well known goth nights in Scotland. My blog can be found at [orodor.org.uk](http://www.orodor.org.uk) and I can be found on twitter as [@barryorourke](http://www.twitter.com/barryorourke).
 
@@ -18,20 +19,20 @@ Abandoning the physio at such an active period of growth probably ended up causi
 
 Medical professionals can only help as far as their training can take them, and a lot of them will only know what they were taught back when they qualified. Things have changed a lot over the years so it's a really good idea to get out there are educate yourself as much as you can about every aspect of CP. 
 
-When I started blogging nearly two years ago there wasn't much of an online community, recently I've been finding new forums and blogs pretty frequently. Sharing experiences and learning from others in a similar situation is often a lot better than the advice you'll get from a doctor with limited knowledge.
+When I started blogging nearly two years ago there wasn't much of an on-line community, recently I've been finding new forums and blogs pretty frequently. Sharing experiences and learning from others in a similar situation is often a lot better than the advice you'll get from a doctor with limited knowledge.
 
 
 ### Use it or lose it ###
 
-This is really important, The more inactive you are, the more inactive you'll remain. A gym membership is a good start, get strong and stay strong, strengh will help loosen you up and give you an increased range of motion.
+This is really important, The more inactive you are, the more inactive you'll remain. A gym membership is a good start, get strong and stay strong, strength will help loosen you up and give you an increased range of motion.
 
-Learn as much as you can about mobility, and exerise as much as possible.
+Learn as much as you can about mobility, and exercise as much as possible.
 
-### Alchohol may appear to be your friend, but is not a friend you can rely upon ###
+### Alcohol may appear to be your friend, but is not a friend you can rely upon ###
 
-In my late teens I made a couple of alcohol related discoveries, firstly it had a positive affect upon my spasticity issues, making me feel looser and making me appear almost *normal* to the casual observer. In addition to this it gave me the confidence that the majority of teeangers, especially those with physical disabilities lack in.
+In my late teens I made a couple of alcohol related discoveries, firstly it had a positive affect upon my spasticity issues, making me feel looser and making me appear almost *normal* to the casual observer. In addition to this it gave me the confidence that the majority of teenagers, especially those with physical disabilities lack in.
 
-However, ten years down the line and a little too much reliance on alchohol results in a much weaker affected side than I would like, you see the problem with alcohol is that it stops the production of the growth hormone that maintains muscle mass, in turn making you much weaker, which inevitably ends up with you drinking more to help deal with the issues that drinking creates.
+However, ten years down the line and a little too much reliance on alcohol results in a much weaker affected side than I would like, you see the problem with alcohol is that it stops the production of the growth hormone that maintains muscle mass, in turn making you much weaker, which inevitably ends up with you drinking more to help deal with the issues that drinking creates.
 
 Alcohol is dangerous, keep that in mind!
 
