@@ -59,7 +59,7 @@ PAGINATION_PATTERNS = (
 )
 
 PLUGIN_PATH = '../pelican-plugins'
-PLUGINS = ['sitemap', 'gzip_cache']
+PLUGINS = ['assets', 'sitemap', 'gzip_cache']
 
 # sitemap configuration
 SITEMAP = {
