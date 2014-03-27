@@ -9,4 +9,5 @@ feedgenerator==1.7
 pelican==3.3
 pytz==2013.9
 six==1.5.2
+webassets==0.9
 wsgiref==0.1.2
