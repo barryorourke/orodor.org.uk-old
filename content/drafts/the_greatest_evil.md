@@ -12,7 +12,7 @@ Sadly, it's quite easy to get sloppy and convince yourself it'll be alright this
 
 The greatest of all evils is of course sugar! There was a period of about six months were I abstained completly and I remember feeling fantastic. That was destroyed by overindulgence the following Christmas and in turn reintroduced my sugar addiction. Thankfully I kept it under control and didn't return to guzzling at least three chocolate bars a day, as I had done before my period of abstinence.
 
-As with the grain I let myself get sloppy at FLOSS, which resulted in a lot of the nastier side-effects of sugar addiction rearing their ugly heads, such delights as increasing my already excessive need for order, and many of the symptoms that I experienced whilst drinking too much coffee like short temper,  lack of patientce and random anger.
+As with the grain I let myself get sloppy at FLOSS, which resulted in a lot of the nastier side-effects of sugar addiction rearing their ugly heads, such delights as increasing my already excessive need for order, and many of the symptoms that I experienced whilst drinking too much coffee like short temper,  lack of patientce and random bouts anger.
 
 ### The Solution
 
