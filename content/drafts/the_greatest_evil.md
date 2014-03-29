@@ -31,4 +31,4 @@ It's pretty simple really, it worked for me before and will again!
 * Avoid poisonous things.
 * Use your mind.
 
-It can't be that hard, **it's just a case of not eating shit, getting off my arse once in a while, relaxing and sleeping well**.
+It can't be that hard, **it's just a case of not eating shit, getting off my arse once in a while, relaxing and sleeping well!**
