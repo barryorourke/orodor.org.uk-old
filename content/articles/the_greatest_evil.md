@@ -1,6 +1,6 @@
 Title: The Greatest Evil!
-Tags: Primal, Hemiplegia, 21days
-Status: draft
+Date: 2014-03-29
+Tags: Primal, Hemiplegia
 
 This is a follow-on post from my coverage of my attendance at the [FLOSS Spring Conference]({filename}/articles/floss_2014_1.md) and was mostly inspired from living for a week on a diet very different to what I'm used to. It was the standard conference diet, consisting of a vast amount of grain and sugar based delights, combined with a hell of a lot more alcohol than I'm used to consuming over a period of five days.
 
@@ -10,9 +10,9 @@ That leaves us with grain and sugar, grain is next up for discussion, or to be e
 
 Sadly, it's quite easy to get sloppy and convince yourself it'll be alright this time and you'll be strict with yourself again tomorrow. It took a week of eating grain again to remind myself of the issues it caused me in the first place, the main one being a very upset stomach! I shall avoid going into too much details on the interweb, but after a few days it wasn't pretty and it was a few times a day. Is grain the greatest evil? It's not, although it is often coupled with the greatest of all evils to create a tasty, addictive, stomach pain inducing delight!
 
-The greatest of all evils is of course sugar! There was a period of about six months were I abstained completly and I remember feeling fantastic. That was destroyed by overindulgence the following Christmas and in turn reintroduced my sugar addiction. Thankfully I kept it under control and didn't return to guzzling at least three chocolate bars a day, as I had done before my period of abstinence.
+The greatest of all evils is of course sugar! There was a period of about six months where I abstained completely and I remember feeling fantastic. That was destroyed by overindulgence the following Christmas and in turn reintroduced my sugar addiction. Thankfully I kept it under control and didn't return to guzzling at least three chocolate bars a day, as I had done before my period of abstinence.
 
-As with the grain I let myself get sloppy at FLOSS, which resulted in a lot of the nastier side-effects of sugar addiction rearing their ugly heads, such delights as increasing my already excessive need for order, and many of the symptoms that I experienced whilst drinking too much coffee like short temper,  lack of patientce and random bouts anger.
+As with the grain I let myself get sloppy at FLOSS, which resulted in a lot of the nastier side-effects of sugar addiction rearing their ugly heads, such delights as increasing my already excessive need for order, and many of the symptoms that I experienced whilst drinking too much coffee like short temper,  lack of patience and random bouts of anger.
 
 ### The Solution
 
