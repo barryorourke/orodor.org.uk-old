@@ -1,6 +1,6 @@
 Title: Speaking
-Date: 2014-04-03
-Tags: Hemiplegia, Work, Reminiscence
+Date: 2014-04-07
+Tags: Hemiplegia, Work
 Status: draft
 
 The last time I properly did a presentation was back some time around 1995. I remember the day well, it was a presentation shared with my friend Matt most likely something to do with basketball. It was a presentation that went horribly wrong, that put me off doing another to the extent that I skipped college of the day I was meant to present, and in turn failed the course. Back to second year English and the fact that the whole class knew I couldn't pronounce Massachusetts. Matt knew I was dreading the questions, yet they asked it, they directed it at me, and he didn't save me!
