@@ -52,7 +52,7 @@ TAG_URL         = 'tag/{slug}/'
 TAG_SAVE_AS     = 'tag/{slug}/index.html'
 
 # pagination
-DEFAULT_PAGINATION = 5
+DEFAULT_PAGINATION = 8 
 
 # set the url pattern for paginated pages
 PAGINATION_PATTERNS = (
