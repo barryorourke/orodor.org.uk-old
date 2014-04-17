@@ -5,14 +5,16 @@ from __future__ import unicode_literals
 AUTHOR = u"Barry O'Rourke"
 AUTHOR_BIO = u"ageing goth, fat dad and sysadmin with mild hemiplegia."
 EMAIL = u"barry@orodor.org.uk"
+GRAVATAR= 'http://www.gravatar.com/avatar/5329ca9e55a5d22091ae92dda3340a1c.png'
 SITENAME = u'orodor.org.uk'
+SITEINFO = AUTHOR_BIO
 SITEURL = 'http://localhost:8000'
 TIMEZONE = 'Europe/London'
 
 DEFAULT_DATE = 'fs'
 DEFAULT_LANG = u'en'
 
-THEME = '../pelican-orodor'
+THEME = '../pelican-crisp-theme'
 STATIC_PATHS = ['css', 'fonts', 'images', 'js']
 
 # social links
