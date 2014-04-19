@@ -7,13 +7,12 @@ As I mentioned previously, I've recently switched back to using Pelican to gener
 
 There are a few options available that provide commenting systems that Pelican can work with.
 
-## Disqus
+## External Providers
 
-http://www.disqus.com/
+There are numberous external providers that offer the option of embedding their commenting system into your blog. The biggies include the obvious [Disqus](http://www.disqus.com), [Facebook](https://developers.facebook.com) and [Google Plus](https://developers.google.com). Whilst out of the box systems like these are as easy to set up as a copy and paste of some javascript into you template files, they are not for me. One of the reasons that I switched to Pelican was so that I could get away from relying on the external companies.
 
-## Moot.it
+One honourable mention in this category however, is [Muut](https://moot.it), they don't appear to be evil and their feature set is quite impressive.
 
-https://moot.it/
 
 ## Isso
 

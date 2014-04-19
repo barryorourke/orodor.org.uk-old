@@ -11,6 +11,8 @@ SITEINFO = AUTHOR_BIO
 SITEURL = 'http://localhost:8000'
 TIMEZONE = 'Europe/London'
 
+ISSO_SERVER = "comments.orodor.org.uk"
+
 DEFAULT_DATE = 'fs'
 DEFAULT_LANG = u'en'
 
