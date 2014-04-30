@@ -1,3 +1,5 @@
+export SASS_PATH=~/.rvm/gems/ruby-2.1.1/gems/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets
+
 PY=python
 PELICAN=pelican
 PELICANOPTS=
