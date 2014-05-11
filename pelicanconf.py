@@ -16,7 +16,7 @@ ISSO_SERVER = "comments.orodor.org.uk"
 DEFAULT_DATE = 'fs'
 DEFAULT_LANG = u'en'
 
-THEME = '../pelican-crisp-bootstrap'
+THEME = '../pelican-theme-experiment'
 STATIC_PATHS = ['css', 'fonts', 'images', 'js']
 
 # social links
