@@ -19,6 +19,8 @@ DEFAULT_LANG = u'en'
 THEME = '../pelican-theme-experiment'
 STATIC_PATHS = ['css', 'fonts', 'images', 'js']
 
+TYPOGRIFY = True
+
 # social links
 SOCIAL = (
     ('twitter', 'https://www.twitter.com/barryorourke'),
