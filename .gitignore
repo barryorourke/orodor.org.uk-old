@@ -39,3 +39,4 @@ virtualenv
 *.pid
 
 output
+cache
