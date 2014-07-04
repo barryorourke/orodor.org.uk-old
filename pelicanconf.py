@@ -34,9 +34,7 @@ FEED_ATOM = "feed/atom.xml"
 
 # do not generate
 ARCHIVES_SAVE_AS      = None
-AUTHOR_SAVE_AS        = None
 AUTHORS_SAVE_AS       = None
-CATEGORY_SAVE_AS      = None
 CATEGORIES_SAVE_AS    = None
 TAGS_SAVE_AS          = None
 FEED_ALL_ATOM         = None
