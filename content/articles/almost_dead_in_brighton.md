@@ -2,7 +2,7 @@ Title: Almost Dead in Brighton
 Date: 2014-03-14
 Tags: Reminiscence
 
-![]({filename}/images/tbkids.png){.pull-right}
+![Tony says Kids!!]({filename}/images/tbkids.png){.pull-right}
 
 This is the first of many posts where I hope to reminisce, this one brought about by the fact that I'll be living down in Brighton for the next week whilst I attend the [FLOSS Spring Conference](www.flossuk.org/Events/Spring2014).
 
