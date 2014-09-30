@@ -1,6 +1,6 @@
 [ "$(hostname -s)" == "cumberdale" ] &&
 export SASS_PATH=~/.gem/ruby/gems/bootstrap-sass-3.2.0.0/assets/stylesheets ||
-export SASS_PATH=~/.rvm/gems/ruby-2.1.1/gems/bootstrap-sass-3.1.1.1/vendor/assets/stylesheets
+export SASS_PATH=~/.rvm/gems/ruby-2.1.1/gems/bootstrap-sass-3.2.0.2/assets/stylesheets
 
 PY=python
 PELICAN=pelican
